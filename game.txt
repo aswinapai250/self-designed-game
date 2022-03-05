@@ -1,0 +1,9 @@
+pc  - tom 
+npc - obstacles
+goal -escape from the forest and reach to the place said
+rules -to move press the arrows up and down to look left right move using mouse.
+feedback - if the player reaches the destination in the given time the player will be rewarded
+adoptivity -as the player is near to reach  the player should have to find some kind of energy 
+balance - there will be an energy bar at the top  while moving fast the bar will decrese and when  the bar  is empty gameover to refill it collect the  fruits which is in th jungle
+story -
+chance vs skill -the skill is that the player should have to reach the place given without dying
